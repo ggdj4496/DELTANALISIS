@@ -1,0 +1,5 @@
+{
+    "inference.model": "codellama:7b-code-q4_K_M",
+    "inference.endpoint": "http://192.168.0.100:11434",
+    "inference.custom.format": "codellama"
+}
