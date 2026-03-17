@@ -1,5 +1,17 @@
 {
-    "inference.model": "codellama:7b-code-q4_K_M",
-    "inference.endpoint": "http://192.168.0.100:11434",
-    "inference.custom.format": "codellama"
+    "chat.planAgent.defaultModel": "Meta-Llama-3.1 (ollama)",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "editor.defaultFormatter": "RooVeterinaryInc.roo-cline",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeActions.triggerOnFocusChange": true,
+    "editor.dropIntoEditor.preferences": [
+
+    ],
+    "diffEditor.codeLens": true,
+    "files.autoGuessEncoding": true,
+    "files.autoSaveWhenNoErrors": true,
+    "workbench.startupEditor": "agentSessionsWelcomePage",
+    "explorer.excludeGitIgnore": true,
+    "explorer.fileNesting.enabled": true
 }
